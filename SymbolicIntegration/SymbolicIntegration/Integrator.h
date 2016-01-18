@@ -16,7 +16,7 @@ public:
 	Integrator(){
 	}
 	~Integrator(){}
-	string integrate1(char* integrand, char variable)
+	string integratePolynomial(char* integrand, char variable)
 	{
 		char* _thisIntegrand = integrand;
 		//initialize answer as an empty string
@@ -44,7 +44,7 @@ public:
 				newIntegrand[indexIntegrand] = '\0';
 				_thisIntegrand = newIntegrand;
 				//append the result of the new integrand's integration into the answer
-				return answer = answer + integrate1(_thisIntegrand, variable);
+				return answer = answer + integratePolynomial(_thisIntegrand, variable);
 			}
 			else {
 				return answer = answer + "x";
@@ -69,7 +69,7 @@ public:
 				}
 				_integrandPart[indexIntegrand] = '\0';
 				//appending the integration of the _integrandPart string into the answer
-				answer=answer+integrate1(_integrandPart,variable);
+				answer=answer+integratePolynomial(_integrandPart,variable);
 
 				//appending the + or - symbol into the answer
 				answer = answer + _thisIntegrand[i];
@@ -84,7 +84,7 @@ public:
 				newIntegrand[indexIntegrand] = '\0';
 				_thisIntegrand = newIntegrand;
 				//append the answer with integation of the new intergrand
-				return answer = answer + integrate1(_thisIntegrand, variable);
+				return answer = answer + integratePolynomial(_thisIntegrand, variable);
 			}
 		}
 
@@ -113,7 +113,7 @@ public:
 	}
 
 	string integrate(char* integrand, char variable) {
-		return integrate1(integrand, variable) + "+" + "C";
+		return integratePolynomial(integrand, variable) + "+" + "C";
 	}
 	
 

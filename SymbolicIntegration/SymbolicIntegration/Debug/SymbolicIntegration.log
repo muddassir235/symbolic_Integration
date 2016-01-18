@@ -4,5 +4,5 @@ e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbol
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(80): warning C4018: '<': signed/unsigned mismatch
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(93): warning C4018: '<': signed/unsigned mismatch
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(113): warning C4715: 'Integrator::integrate1': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(113): warning C4715: 'Integrator::integratePolynomial': not all control paths return a value
   SymbolicIntegration.vcxproj -> E:\Cloud Drives\Google Drive NUST\Work\Visual Studio\symbolic_Integration\SymbolicIntegration\Debug\SymbolicIntegration.exe

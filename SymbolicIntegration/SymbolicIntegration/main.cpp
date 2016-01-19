@@ -7,8 +7,8 @@ using namespace std;
 
 int main(void) {
 	char c;
-	Integrator integrator;
-	cout << integrator.integrate("43x^3+5x^23+6x+3",'x');
+	Integrator integrator('x');
+	cout << integrator.integrate("23x+sinx");
 
 	cin >> c;
 	return 0;

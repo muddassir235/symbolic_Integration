@@ -1,33 +1,62 @@
 ﻿  main.cpp
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(60): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(83): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(104): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(129): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(151): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(182): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(239): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(243): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(286): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(300): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(313): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(341): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(365): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(371): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(88): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(148): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(152): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(195): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(209): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(222): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(250): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(274): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(280): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(311): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(333): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(346): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(359): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(374): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(381): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(400): warning C4018: '<=': signed/unsigned mismatch
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(402): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(424): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(437): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(450): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(465): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(472): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(491): warning C4018: '<=': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(493): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(508): warning C4018: '<=': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(510): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(528): warning C4018: '<=': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(530): warning C4018: '<': signed/unsigned mismatch
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(176): warning C4715: 'Integrator::integrate1': not all control paths return a value
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(228): warning C4715: 'Integrator::integratePolynomial': not all control paths return a value
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(543): warning C4715: 'Integrator::endIndexOf': not all control paths return a value
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(523): warning C4715: 'Integrator::startIndexOf': not all control paths return a value
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(354): warning C4715: 'Integrator::getPower': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(417): warning C4018: '<=': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(419): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(437): warning C4018: '<=': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(439): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(572): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(596): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(620): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(644): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(668): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(692): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(716): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(740): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(764): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(787): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(805): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(829): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(853): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(877): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(901): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(925): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(949): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(973): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1002): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1018): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1035): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1040): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1049): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1083): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1132): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1193): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1203): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1222): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1271): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1283): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1307): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1316): warning C4018: '<': signed/unsigned mismatch
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(82): warning C4715: 'Integrator::integrate1': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(137): warning C4715: 'Integrator::integratePolynomial': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(432): warning C4715: 'Integrator::startIndexOf': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(452): warning C4715: 'Integrator::endIndexOf': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(263): warning C4715: 'Integrator::getPower': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(776): warning C4715: 'Integrator::integrateSimpleNonPolynomial': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(985): warning C4715: 'Integrator::integrateNonSimpleNonPolynomial': not all control paths return a value
   SymbolicIntegration.vcxproj -> E:\Cloud Drives\Google Drive NUST\Work\Visual Studio\symbolic_Integration\SymbolicIntegration\Debug\SymbolicIntegration.exe

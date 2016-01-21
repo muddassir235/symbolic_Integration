@@ -54,9 +54,9 @@ e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbol
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(1316): warning C4018: '<': signed/unsigned mismatch
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(82): warning C4715: 'Integrator::integrate1': not all control paths return a value
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(137): warning C4715: 'Integrator::integratePolynomial': not all control paths return a value
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(432): warning C4715: 'Integrator::startIndexOf': not all control paths return a value
-e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(452): warning C4715: 'Integrator::endIndexOf': not all control paths return a value
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(263): warning C4715: 'Integrator::getPower': not all control paths return a value
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(776): warning C4715: 'Integrator::integrateSimpleNonPolynomial': not all control paths return a value
 e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(985): warning C4715: 'Integrator::integrateNonSimpleNonPolynomial': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(432): warning C4715: 'Integrator::startIndexOf': not all control paths return a value
+e:\cloud drives\google drive nust\work\visual studio\symbolic_integration\symbolicintegration\symbolicintegration\integrator.h(452): warning C4715: 'Integrator::endIndexOf': not all control paths return a value
   SymbolicIntegration.vcxproj -> E:\Cloud Drives\Google Drive NUST\Work\Visual Studio\symbolic_Integration\SymbolicIntegration\Debug\SymbolicIntegration.exe

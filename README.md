@@ -3,4 +3,4 @@ Integration program in which you enter a string and the variable with respect to
 
 #Run Code 
 
-You can run the code directly in your brower using cpp-sheel http://cpp.sh/8csgj
+You can run the code directly in your brower using cpp-shell http://cpp.sh/8csgj
